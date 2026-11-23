@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: CampBoss
+## Notes: Experience tent party and payment timer
+## Version: 1.1.0
+## SavedVariablesPerCharacter: CampBossDB
+
+CampBoss.lua
+UI.lua
